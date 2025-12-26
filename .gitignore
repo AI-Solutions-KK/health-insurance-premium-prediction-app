@@ -1,0 +1,48 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# ---------- Virtual Environments ----------
+.venv/
+venv/
+env/
+
+# ---------- IDE / Editor ----------
+.idea/
+.vscode/
+*.swp
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db
+
+# ---------- ML / Data ----------
+*.pkl
+*.h5
+*.onnx
+
+# ---------- Jupyter ----------
+.ipynb_checkpoints/
+
+# ---------- Streamlit ----------
+.streamlit/
+
+# ---------- Tests / Coverage ----------
+.coverage
+htmlcov/
+
+# ---------- Build ----------
+build/
+dist/
+*.egg-info/
+
+# ---------- Environment Variables ----------
+.env
+.env.*
+
+# ---------- Cache ----------
+.cache/
+pytest_cache/
