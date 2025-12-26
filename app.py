@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered"
 )
 
-API_URL = "https://health-insurance-premium-model-api-bvgrg3bmcyhbbpb4.centralindia-01.azurewebsites.net/predict"
+API_URL = st.secrets["MODEL_API_URL"]
 
 # ------------------------------------------------------------
 # STYLES
