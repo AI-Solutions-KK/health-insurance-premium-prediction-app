@@ -21,8 +21,8 @@ https://health-insurance-premium-ui-gvhvh4esfqe9emb5.centralindia-01.azurewebsit
 ---
 
 Project Snap Shots
-![project_snap_shot](snap_1.png)
-![project_snap_shot](snap_2.png)
+![project_snap_shot](snap1.png)
+![project_snap_shot](snap2.png)
 
 
 
